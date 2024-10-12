@@ -7,14 +7,14 @@
 Tenho experiência prática em várias áreas dentro de DevOps, desde infraestrutura a automação de processos. Algumas das principais tecnologias e ferramentas com as quais já trabalhei incluem:
 
 <p>
-  <img src="https://github.com/rosariomarcose/skill-icons/blob/main/./icons/Linux-Dark.svg" width="20" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/./icons/Linux-Dark.svg" width="20" style="vertical-align:top; margin:4px">
   <img src="https://skillicons.dev/icons?i=git" width="20" style="vertical-align:top; margin:4px">
   <img src="https://skillicons.dev/icons?i=kubernetes" width="20" style="vertical-align:top; margin:4px">
   <img src="https://skillicons.dev/icons?i=docker" width="20" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/rosariomarcose/skill-icons/blob/main/./icons/Github-Dark.svg" width="20" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/rosariomarcose/skill-icons/blob/main/./icons/GitLab-Dark.svg" width="20" style="vertical-align:top; margin:4px">      
-  <img src="https://github.com/rosariomarcose/skill-icons/blob/main/./icons/Jenkins-Dark.svg" width="20" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/rosariomarcose/skill-icons/blob/main/./icons/VSCode-Dark.svg" width="20" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/./icons/Github-Dark.svg" width="20" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/./icons/GitLab-Dark.svg" width="20" style="vertical-align:top; margin:4px">      
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/./icons/Jenkins-Dark.svg" width="20" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/./icons/VSCode-Dark.svg" width="20" style="vertical-align:top; margin:4px">
 </p>
 
 Tecnologias/Conceitos:
@@ -27,10 +27,10 @@ Tecnologias/Conceitos:
 Tenho experiência com diferentes sistemas operacionais, tanto para servidores quanto para estações de trabalho:
 
 <p>
-  <img src="https://github.com/rosariomarcose/skill-icons/blob/main/./icons/Linux-Dark.svg" width="20" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/rosariomarcose/skill-icons/blob/main/./icons/Windows-Dark.svg" width="20" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/rosariomarcose/skill-icons/blob/main/./icons/RedHat-Dark.svg" width="20" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/rosariomarcose/skill-icons/blob/main/./icons/Debian-Dark.svg" width="20" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/./icons/Linux-Dark.svg" width="20" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/./icons/Windows-Dark.svg" width="20" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/./icons/RedHat-Dark.svg" width="20" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/./icons/Debian-Dark.svg" width="20" style="vertical-align:top; margin:4px">
 </p>
 
 - **Linux:** Debian, CentOS, Ubuntu, Alpine, Mint, Fedora
@@ -43,11 +43,11 @@ Tenho experiência com diferentes sistemas operacionais, tanto para servidores q
 Estou me especializando em novas tecnologias para expandir minhas habilidades e aplicar em projetos futuros. Atualmente, estou aprendendo:
 
 <p>
-  <img src="https://github.com/rosariomarcose/skill-icons/blob/main/./icons/Linux-Dark.svg" width="20" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/./icons/Linux-Dark.svg" width="20" style="vertical-align:top; margin:4px">
   <img src="https://skillicons.dev/icons?i=kubernetes" width="20" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/rosariomarcose/skill-icons/blob/main/./icons/AWS-Dark.svg" width="20" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/rosariomarcose/skill-icons/blob/main/./icons/Python-Dark.svg" width="20" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/rosariomarcose/skill-icons/blob/main/./icons/Grafana-Dark.svg" width="20" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/./icons/AWS-Dark.svg" width="20" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/./icons/Python-Dark.svg" width="20" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/./icons/Grafana-Dark.svg" width="20" style="vertical-align:top; margin:4px">
 </p>
 
 Ferramentas e tecnologias em estudo:
@@ -64,8 +64,8 @@ Fora do ambiente de DevOps e desenvolvimento, meu interesse está voltado para o
 ### 🔗 Redes Sociais!
 
 <p>
-  <img src="https://github.com/rosariomarcose/skill-icons/blob/main/./icons/LinkedIn.svg" width="20" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/rosariomarcose/skill-icons/blob/main/./icons/Gmail-Dark.svg" width="20" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/./icons/LinkedIn.svg" width="20" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/./icons/Gmail-Dark.svg" width="20" style="vertical-align:top; margin:4px">
 </p>
 
 - **LinkedIn:** [linkedin.com/in/marcos-rosário-813485288](https://linkedin.com/in/marcos-rosário-813485288)
